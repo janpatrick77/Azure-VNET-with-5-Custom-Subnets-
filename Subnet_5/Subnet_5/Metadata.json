@@ -1,0 +1,8 @@
+﻿{
+  "itemDisplayName": "Deploy a VNET with 5 Subnets",
+  "icon": "windowsVM",
+  "description": "This template allows you to deploy a single VNET with 5 different subnets.",
+  "summary": "This template allows you to provide Subnet Names and the IP address range to deploys a VNET.",
+  "githubUsername": "techtalkdeepak",
+  "dateUpdated": "2017-09-12"
+}
